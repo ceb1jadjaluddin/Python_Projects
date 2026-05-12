@@ -1,6 +1,6 @@
 # -------------------------------
 # ABSTRACTION EXAMPLE IN PYTHON
-# -------------------------------
+# ------------------------------- testing only
 
 from abc import ABC, abstractmethod
 
